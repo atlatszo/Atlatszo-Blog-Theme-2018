@@ -1,0 +1,25 @@
+a {color:#ff2932;}
+.highlight {background-color:#ff2932 !important;color:#FFF !important;}
+.cred {color:#ff2932;}
+.bred {background-color:#ff2932;}
+.mainmenu li a:hover {color:#ff2932;}
+.submenu.sub-1 a {color:#ff2932;}
+
+article .the_title a:hover {color:#ff2932;}
+.the_category.cat_linkbox {background:#ff2932;}
+
+main.s404 {border:3px solid #ff2932;}
+
+.title18 {border:12px solid #ff2932;padding:25px;border-radius:100px;}
+.single_post .the_content .quote_box blockquote, .single_post .the_content span.highlight-section {color:#ff2932;border-left: 5px solid #ff2932;}
+.single_post .the_content blockquote {color:#ff2932;}
+
+#footer .col3 ul.the_archive a {color:#ff725b;}
+#footer .col3 ul.the_archive a:hover {color:#FFF;}
+#footer article {color:#ff725b;}
+
+.social-link.facebook-link {background:url(i/facebook-red.svg) no-repeat;}
+.social-link.tumblr-link {background:url(i/tumblr-red.svg) no-repeat;}
+.social-link.twitter-link {background:url(i/twitter-red.svg) no-repeat;}
+.social-link.instagram-link {background:url(i/instagram-red.svg) no-repeat;}
+.social-link.email-link {background:url(i/email-red.svg) no-repeat;}
