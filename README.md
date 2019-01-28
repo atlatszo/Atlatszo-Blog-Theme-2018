@@ -1,2 +1,2 @@
-# Atlatszo-Blog-Theme-2018
+# Atlatszo blog sablon 2018
 blog.atlatszo.hu 2018-as sablon
